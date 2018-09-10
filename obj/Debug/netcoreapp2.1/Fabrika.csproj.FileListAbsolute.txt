@@ -1,0 +1,14 @@
+C:\Users\mustafa.kapucu\Fabrika\bin\Debug\netcoreapp2.1\Fabrika.deps.json
+C:\Users\mustafa.kapucu\Fabrika\bin\Debug\netcoreapp2.1\Fabrika.runtimeconfig.json
+C:\Users\mustafa.kapucu\Fabrika\bin\Debug\netcoreapp2.1\Fabrika.runtimeconfig.dev.json
+C:\Users\mustafa.kapucu\Fabrika\bin\Debug\netcoreapp2.1\Fabrika.dll
+C:\Users\mustafa.kapucu\Fabrika\bin\Debug\netcoreapp2.1\Fabrika.pdb
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.csprojAssemblyReference.cache
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.RazorAssemblyInfo.cache
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.RazorAssemblyInfo.cs
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.AssemblyInfoInputs.cache
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.AssemblyInfo.cs
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.RazorTargetAssemblyInfo.cache
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.dll
+C:\Users\mustafa.kapucu\Fabrika\obj\Debug\netcoreapp2.1\Fabrika.pdb
